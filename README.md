@@ -1,2 +1,0 @@
-# Grade-calculation
-by adhityavarman
