@@ -26,3 +26,4 @@ int main(){
 	else{
 		printf("enter a valid mark ");
 	}
+}
