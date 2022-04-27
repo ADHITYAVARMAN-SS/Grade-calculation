@@ -3,10 +3,9 @@
 int main(){
 	//to get input of mark 
 	printf("enter the mark:");
-	int mark;
-	scanf("%d",&mark);
-	
-	printf("The given mark %d\n",mark);
+	float mark,m1,m2,m3,m4,m5;
+	scanf("%f%f%f%f%f",&m1,&m2,&m3,&m4,&m5);
+	mark = (m1+m2+m3+m4+m5)/5;
 
 	if(mark>=85 && mark<=100) {
 		printf("The kid got 'Grade-A'");
